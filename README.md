@@ -1,35 +1,23 @@
-## 👋 About Me
+## About Me
 
-Graduate student in computer science specializing in **cybersecurity and risk analysis**,
-with a strong interest in **Industrial Control Systems (ICS) and Operational Technology (OT) security**.
+Graduate student in Computer Science building practical projects in **backend development, cloud/DevOps, cybersecurity, and AI-assisted security systems**.
 
-I am particularly interested in:
-- ICS / OT cybersecurity
-- Risk assessment and critical infrastructure protection
-- IT / OT network segmentation
-- Industrial cybersecurity standards (IEC 62443, NIST)
+My work focuses on connecting software engineering and security through projects involving **REST APIs, Docker, CI/CD, AWS, anomaly detection, RAG systems, risk analysis, and system observability**.
 
----
+I am currently seeking internship opportunities in:
 
-## 🔍 Featured Project
+- Backend Development
+- Software Development
+- Cloud Engineering
+- DevOps / Platform Engineering
+- Cybersecurity
+- Application Security
+- AI / Data / Security Automation
 
-### 🏭 ICS Cybersecurity Risk Assessment (Simulation)
+### Current focus
 
-A structured, consulting-oriented cybersecurity risk assessment for a simulated
-industrial control system environment.
-
-**Key topics covered:**
-- IT / OT architecture and segmentation
-- Asset identification in ICS environments
-- Threat and risk analysis
-- Security controls aligned with IEC 62443 and NIST
-
-👉 [View the project](https://github.com/ismael-ai-hub/ics-cybersecurity-risk-assessment)
-
----
-
-## 🎯 Career Objective
-
-Seeking an **entry-level / trainee role in ICS or OT cybersecurity**, where I can
-contribute to protecting critical infrastructure while continuing to learn from
-experienced professionals.
+- Backend development with Python, FastAPI, REST APIs, testing, and Docker
+- Cloud and DevOps practices with AWS, CI/CD, GitHub Actions, and monitoring
+- Cybersecurity projects involving anomaly detection, operational security, and risk assessment
+- AI-assisted systems, including RAG-based knowledge assistants
+- Critical infrastructure and ICS/OT security
