@@ -21,3 +21,14 @@ I am currently seeking internship opportunities in:
 - Cybersecurity projects involving anomaly detection, operational security, and risk assessment
 - AI-assisted systems, including RAG-based knowledge assistants
 - Critical infrastructure and ICS/OT security
+
+## Featured Projects
+
+### Online Gaming Events Backend API
+
+Backend API prototype for managing simulated online gaming sessions and events.
+
+**Tech stack:** Python, FastAPI, Docker, Pytest, GitHub Actions  
+**Focus:** REST APIs, backend development, testing, CI/CD, anomaly detection, observability
+
+[View project on GitHub](https://github.com/ismael-ai-hub/online-gaming-events-backend-api)
